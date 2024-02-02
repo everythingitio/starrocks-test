@@ -2,8 +2,8 @@
 
 Enable docker-compose in [killercoda](https://killercoda.com) 
 
-https://github.com/docker/compose/issues/11009
-https://docs.docker.com/engine/install/ubuntu/#install-using-the-repository
+* https://github.com/docker/compose/issues/11009
+* https://docs.docker.com/engine/install/ubuntu/#install-using-the-repository
 
 ```
 # Add Docker's official GPG key:
@@ -24,7 +24,7 @@ sudo apt install docker-compose-plugin
 
 ```
 
-https://www.pinecone.io/learn/mixtral-8x7b/
-https://runcode.io
+* https://www.pinecone.io/learn/mixtral-8x7b/
+* https://runcode.io
 
 
