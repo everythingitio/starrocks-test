@@ -26,5 +26,6 @@ sudo apt install docker-compose-plugin
 
 * https://www.pinecone.io/learn/mixtral-8x7b/
 * https://runcode.io
+* https://www.runpod.io/console/console/home
 
 
